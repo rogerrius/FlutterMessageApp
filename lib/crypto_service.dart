@@ -1,0 +1,1 @@
+// crypto_service.dart - uso de flutter_sodium

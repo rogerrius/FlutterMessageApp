@@ -1,0 +1,1 @@
+// main.dart - archivo principal de Flutter
